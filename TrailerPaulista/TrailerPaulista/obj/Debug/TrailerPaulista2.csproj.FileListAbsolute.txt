@@ -1,0 +1,13 @@
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.CaixaForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.ClientesForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.FornecedorForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.FirstCustomControl.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.Sobre.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.TrailerPaulista.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.MensagensForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.Properties.Resources.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.RelatoriosForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.TarefasForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista2.csproj.GenerateResource.Cache
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.exe
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Debug\TrailerPaulista.pdb

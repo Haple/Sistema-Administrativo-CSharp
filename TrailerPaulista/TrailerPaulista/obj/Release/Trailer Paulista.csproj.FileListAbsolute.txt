@@ -1,0 +1,27 @@
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\TrailerPaulista.exe.config
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\TrailerPaulista.exe
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\TrailerPaulista.pdb
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\MigraDoc.DocumentObjectModel.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\MigraDoc.Rendering.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\MigraDoc.RtfRendering.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\MySql.Data.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\PdfSharp.Charting.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\PdfSharp.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\de\MigraDoc.Rendering.resources.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\de\PdfSharp.resources.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\bin\Release\de\PdfSharp.Charting.resources.dll
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.CaixaForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.ClientesForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.FornecedorForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.FirstCustomControl.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.Sobre.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.TrailerPaulista.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.MensagensForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.Properties.Resources.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.RelatoriosForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.TarefasForm.resources
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\Trailer Paulista.csproj.GenerateResource.Cache
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.exe
+F:\1 - Tecnico\05 - TCC\04 - Softwares\06 - Trailer Paulista\TrailerPaulista\TrailerPaulista\obj\Release\TrailerPaulista.pdb
